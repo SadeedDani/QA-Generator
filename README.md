@@ -1,8 +1,10 @@
 # QA-Generator
-It is an AI&ML model which can generate Questions and answers when a file or pdf is given to it.
+It is an ML model which can generate Questions and answers when a file or pdf is given to it.
 
-Front-end was done using flutter and AI&ml model was done using python integration of python with flutter is still work in progress.
+Front-end was done using flutter and ML model was done using python.
 
-Integration of flask and python is still work in progress
+In progress-
+Integration of flask and python,
+integration of frontend and backend
 
 
